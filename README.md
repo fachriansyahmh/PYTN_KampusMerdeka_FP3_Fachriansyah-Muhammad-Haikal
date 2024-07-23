@@ -1,5 +1,7 @@
 # Prediksi Risiko Gagal Jantung dengan Ensemble Model
 
+buka link berikut untuk detail projectnya : <a href="https://github.com/fachriansyahmh/Prediksi_Risiko_Gagal_Jantung_dengan_Ensemble_Model/blob/main/Prediksi_Risiko_Gagal_Jantung_dengan_Ensemble_Model.ipynb" target="_blank">Project</a>
+
 ## Latar Belakang
 
 Penyakit gagal jantung adalah kondisi yang serius dan mempengaruhi kualitas hidup serta tingkat kematian pasien. Prediksi yang akurat tentang risiko gagal jantung dapat membantu tenaga medis dalam mengidentifikasi pasien yang rentan dan memungkinkan pengambilan tindakan pencegahan yang tepat.
